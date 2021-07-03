@@ -1,0 +1,52 @@
+body {
+  font-family: sans-serif;
+}
+
+/* Style the header */
+header {
+  background-color: firebrick;
+  padding: 30px;
+  color: white;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+/* Style the nav */
+nav {
+  background-color: #404040;
+  padding: 20px;
+  text-align: right;
+  color: white;
+}
+
+/* Style the section */
+section {
+  padding: 30px;
+  width: 70%;
+}
+
+/* Style the article */
+article {
+  padding-bottom: 30px;
+  padding-left: 50px;
+  padding-right: 50px;
+  width: 70%;
+}
+
+h1 {
+  font-size: 25px;
+  font-weight: bold;
+  padding-bottom: 20px;
+}
+
+p {
+  padding-top: 10px;
+}
+
+/* Style the footer */
+footer {
+  background-color: #404040;
+  padding: 30px;
+  text-align: left;
+  color: white;
+}
